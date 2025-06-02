@@ -1,4 +1,4 @@
-<img src="link" alt="GitHub Banner" width="100%" />
+<img src="https://i.ibb.co/dwDzDs4z/duvsilv.gif" alt="GitHub Banner" width="100%" />
 
 # Hello World! 👋🏼 I'm Duvan Estick, a Peruvian Software Engineer
 
