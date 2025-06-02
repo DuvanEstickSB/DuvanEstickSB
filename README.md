@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://ibb.co/99xfsMzj" alt="Tailwind CSS" width="40" height="40" />
 </div>
 
 ---
@@ -40,19 +40,19 @@
     <tr>
       <td align="center">
         <a href="https://your-website.com" target="_blank">
-          <img alt="My Page" width="24px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" /><br />
+          <img alt="My Page" width="24px" src="https://ibb.co/3ZTTKnD" /><br />
           <sub><b>My Page</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://instagram.com/yourhandle" target="_blank">
-          <img alt="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /><br />
+          <img alt="Instagram" width="24px" src="https://ibb.co/1YWrFvxt" /><br />
           <sub><b>Instagram</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="mailto:yourmail@gmail.com">
-          <img width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /><br />
+          <img width="26px" src="https://ibb.co/NgppBmYh" /><br />
           <sub><b>Gmail</b></sub>
         </a>
       </td>
