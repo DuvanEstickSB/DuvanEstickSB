@@ -25,35 +25,32 @@
 ![TailwindCSS](link)
 
 ---
-
 <div align="center">
-  <h3><b>Let's connect! </b></h3>
+  <h3><b>Let's connect!</b></h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="link" target="_blank">
+          <img alt="My Page" width="24px" src="link" /><br />
+          <sub><b>My Page</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="link" target="_blank">
+          <img alt="Instagram" width="24px" src="link" /><br />
+          <sub><b>Instagram</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:link">
+          <img alt="Gmail" width="26px" src="link" /><br />
+          <sub><b>Gmail</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <b>My Page</b><br>
-  <a href="link" target="_blank">
-    <img align="center" alt="LinkedIn" width="24px" src="link" />
-  </a> 
-</p>
-
-<p align="center">
-  <b>Instagram</b><br>
-  <a href="link" target="_blank">
-    <img align="center" alt="Instagram" width="24px" src="link" />
-  </a> 
-</p>
-
-<p align="center">
-  <b>Gmail</b><br>
-  <a href="mailto:link">
-    <img align="center" alt="Gmail" width="26px" src="link" />
-  </a> 
-</p>
-
-<p align="center">
-  <img src="link" alt="snake">
-</p>
 
 ---
 
