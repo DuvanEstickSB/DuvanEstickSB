@@ -1,21 +1,22 @@
-![image](https://github.com/user-attachments/assets/bddf066c-5717-4e3b-986f-d9dad83e556c)<img src="link" alt="GitHub Banner" width="100%" />
+<img src="link" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Duvan Estick, a Peruvian Software Engineer 👋🏼
+# Hello World! 👋🏼 I'm Duvan Estick, a Peruvian Software Engineer
 
-🛜 Currently working on my personal [webpage](link) <br>
+🛜 Currently working on my [personal website](link) <br>
 🎓 Software Engineer passionate about continuous learning <br>
 💻 Constantly growing and motivated by new challenges <br>
-🚀 Focused on improving every day to keep growing professionally
+🚀 Focused on improving every day to grow professionally
 
 <pre>
-💻 I'm developing my skills as a front-end developer | Passionate about new technologies
-📚 Always learning and perfecting my skills
-🧠 I'm interested in creating modern user interface experiences
-🔭 I'm currently exploring frameworks like Tailwind
-🌱 I focus on understanding user needs and providing useful solutions
+💻 Developing my skills as a front-end developer | Passionate about new technologies
+📚 Always learning and refining my abilities
+🧠 Interested in building modern user interface experiences
+🔭 Exploring frameworks like Tailwind CSS
+🌱 Focused on understanding user needs and building helpful solutions
 🌟 Current language of practice: JavaScript
-🚩 I'm interested in full-stack development with a focus on AI and user experience
+🚩 Interested in full-stack development with a focus on AI and user experience
 </pre>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -24,31 +25,34 @@
 
 ## 🚀 Technologies & Tools
 
-![HTML](https://github.com/user-attachments/assets/7517e74f-15a1-4b93-843d-693e1c91d83d)
-![CSS](https://github.com/user-attachments/assets/effd279a-b35b-4845-84dc-3bdf6295540a)
-![JAVASCRIPT](https://github.com/user-attachments/assets/08e92920-467e-4713-b849-31483ebc4c92)
-![TailwindCSS](https://ibb.co/99xfsMzj)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+</div>
 
 ---
+
 <div align="center">
   <h3><b>Let's connect!</b></h3>
   <table>
     <tr>
       <td align="center">
-        <a href="link" target="_blank">
-          <img alt="My Page" width="24px" src="https://ibb.co/3ZTTKnD" /><br />
+        <a href="https://your-website.com" target="_blank">
+          <img alt="My Page" width="24px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" /><br />
           <sub><b>My Page</b></sub>
         </a>
       </td>
       <td align="center">
-        <a href="link" target="_blank">
-          <img alt="Instagram" width="24px" src="https://ibb.co/1YWrFvxt" /><br />
+        <a href="https://instagram.com/yourhandle" target="_blank">
+          <img alt="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /><br />
           <sub><b>Instagram</b></sub>
         </a>
       </td>
       <td align="center">
-        <a href="mailto:link">
-          <img alt="Gmail" width="26px" src="https://ibb.co/NgppBmYh" /><br />
+        <a href="mailto:yourmail@gmail.com">
+          <img width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /><br />
           <sub><b>Gmail</b></sub>
         </a>
       </td>
@@ -56,7 +60,6 @@
   </table>
 </div>
 
-
 ---
 
-© [DuvanEstickSB] (https://github.com/DuvanEstickSB)
+© [DuvanEstickSB](https://github.com/DuvanEstickSB)
